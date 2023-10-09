@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://starshare.live:8080/live/Hanny/Hanny/214976.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8000000
+http://starshare.live:8080/live/Hanny/Hanny/214976.m3u8
 
